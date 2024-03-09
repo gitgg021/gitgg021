@@ -20,7 +20,10 @@
 * 消息确认、消息持久化、交换机队列定义、消息生产消费的实践  
 * 熟悉SpringCloud, Nacos, Dubbo RPC 框架：能用Spring Cloud GateWay 实现 API 网管,访问控制 
 * 其他：了解 Linux 常用命令， 能够使用 Git、Maven、Docker、IDEA、ChatGPT、Postman、Swag
-ger、Navicat 等工具提高开发协作效率实践, 有独立项目部署经验。  
+ger、Navicat 等工具提高开发协作效率实践, 有独立项目部署经验
+### 前端
+* 通过官方文档实践过 Ant Design Pro 脚手架
+* 其他前端知识能看懂一些，但离熟练还有很远的距离，有前端小伙伴想找开发搭子可以联系我丫
 
 
 
