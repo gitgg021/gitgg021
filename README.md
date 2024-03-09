@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+🏡 状态：大四在校生
+👨‍💻 方向：Java后端，了解前端
+📝 博客：CSDN | https://blog.csdn.net/
+📫 邮箱：605007817@qq.com
+⚡ 爱好：编程, 跑步，篮球，旅游
 <!--
 **gitgg021/gitgg021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
