@@ -4,7 +4,7 @@
 👨‍💻 方向：Java后端，了解前端  
 📝 博客：CSDN | [https://blog.csdn.net](https://blog.csdn.net/m0_59166601)  
 📫 邮箱：605007817@qq.com  
-⚡ 爱好：编程, 跑步，篮球，旅游  
+⚡ 爱好：编程、跑步、篮球、旅游  
 🌱 AI数据可视化平台 | http://www.huahuaguagua.top   
 💬 做过的项目有 | AI数据可视化平台 AI-Chart、接口调用平台 CC-API、用户管理中心（提供后端快速初始化模板）、CC 外卖、CC 旅游（后两个为早期初学项目没有更新GitHub）  
 ## 技术栈  
